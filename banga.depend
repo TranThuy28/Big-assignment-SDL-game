@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1680786988 source:d:\sdl_btl_official\banga\game.cpp
+	"game.h"
+
+1678593921 d:\sdl_btl_official\banga\game.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<vector>
+	<math.h>
+
+1680786931 source:d:\sdl_btl_official\banga\main.cpp
+	<iostream>
+	"game.h"
+
