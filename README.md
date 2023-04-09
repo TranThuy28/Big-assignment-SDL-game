@@ -3,7 +3,8 @@
 # Big-assignment-SDL-game-C-
                                                          Tựa game Chicken Invaders- Bắn Gà
 1. Introducion
-     ![Algorithm schema](./pictures/backgroundmenu)
+     ![alt text](https://github.com/TranThuy28/Big-assignment-SDL-game/blob/main/backgroundmenu.png?raw=true)
+     
    Bắn gà là 1 tựa game quen thuộc với cách chơi đơn giản. Trò chơi đặt bạn vào vị trí hàng đầu trong cuộc chiến chống lại những con gà xâm lược giữa các thiên hà, muốn trả thù loài người vì sự áp bức của chúng ta đối với gà Trái đất.
 
    Trong Chicken Invaders, bạn đảm nhận vai trò tiêu diệt những chú gà để tìm lại hòa bình cho Trái Đất.
