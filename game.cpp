@@ -50,8 +50,9 @@ SDL_Delay(100);
 SDL_Texture* loadTexture( string path,SDL_Renderer* renderer ){
     SDL_Texture* newTexture = NULL;
     SDL_Surface* loadedSurface = IMG_Load( path.c_str() );
-    if ( loadedSurface == NULL )
+    if ( loadedSurface == NULL ){
         cout << "Unable to load image " << path << " SDL_image Error: "<< IMG_GetError() << endl;
+        SDL_DestroyTexture(newTexture);}
 
     else {
         newTexture = SDL_CreateTextureFromSurface( renderer, loadedSurface );

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1680786988 source:d:\sdl_btl_official\banga\game.cpp
+1681307780 source:d:\sdl_btl_official\banga\game.cpp
 	"game.h"
 
 1681037794 d:\sdl_btl_official\banga\game.h
@@ -13,7 +13,7 @@
 	<vector>
 	<math.h>
 
-1681031380 source:d:\sdl_btl_official\banga\main.cpp
+1681330363 source:d:\sdl_btl_official\banga\main.cpp
 	<iostream>
 	"game.h"
 
